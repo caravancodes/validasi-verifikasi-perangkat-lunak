@@ -1,0 +1,18 @@
+1a.Sanity check
+1b.Core apps quality
+1c.Tablet apps quality
+1d.Automated testing
+1e.unconditional testing
+1f.code quality testing
+
+2a.unit test
+2b.data diven unit test
+2c.performance
+2d.accesbility
+2e.functionality
+2f.security
+2g.usability
+2h.automated ui test
+2i.espreso
+2j.apk analize
+2k.google pla

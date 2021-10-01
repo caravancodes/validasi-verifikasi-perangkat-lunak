@@ -1,0 +1,15 @@
+1. Mencari Jurnal White Box Testing setelah tahun 2012
+2. Menganalisis jurnal
+3. Mencari 3 buah permasalahan pada jurnal
+4. Bagaimana hasil dari permasalahan pada jurnal
+5. Menghasilkan laporan maksimal 2 halaman untuk hasil di atas
+
+
+6. Mencari studi kasus white box dengan minimum 6 buah fungsi
+7. memecahkan permasalahan studi kasus tersebut dengan tools android studio dengan menggunakan unit test dan data driven unit test
+8. menghasilkan test case dari 6 pengujian di atas
+
+Duglegir
+1. IMPLEMENTASI PROSES UJI SISTEM INFORMASI ADMISI PASCASARJANA UNIVERSITAS SAM RATULANGI
+2. ANALISIS PERANCANGAN ANIMASI INTERAKTIF PEMBELAJARAN ANATOMI OTAK MANUSIA TINGKAT SEKOLAH MENENGAH PERTAMA
+3. Implementasi Metode Cause Effect Graphing (CEG) dalam Pengujian Requirement Perangkat Lunak

@@ -1,0 +1,26 @@
+Menganalisa Bug Pada 3 Buah Aplikasi Android [Validasi dan verifikasi perangkat lunak]
+
+Tugas ini dibuat dalam bentuk laporan/makalah dimana dengan deskripsi sebagai berikut
+
+Tujuan Tugas
+- Menjelaskan jenis pengujian yang sesuai untuk studi kasus tertentu
+- Menyebutkan contoh - contoh dan prediksi sumber masalah/Error/Bug pada aplikasi yang biasa digunakan sehari - hari
+
+Uraian Tugas
+- Objek garapan :    ==> Mencari 3 buah aplikasi android populer yang banyak digunakan
+==> Mencari minimal 3 buah bugs dari aplikasi tersebut
+==> Menganalisa dari bugs tersebut mengapa sampai hal tersebut terjadi
+==> Kira - kira solusi apa yang dapat diberikan
+- Yang harus dikerjakan dengan batasan, membuat laporan dikumpulkan sebelum deadline asessment 1.
+- Metode dan cara mengerjakan, acuan yang digunakan, berkelompok
+- Deskripsi luaran tugas yang dihasikan dokumentasi dan presentasi
+
+Kriteria penilaian
+- Ketepatan isi makalah dengan tugas yang diberikan
+- Hasil analisa
+- Presentasi
+
+Grade
+< 60 kurang/tidak sesuai
+61 - 75 cukup
+> 76 Baik
